@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**oke-aditya/oke-aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Hello, I am Aditya Oke.
+- I am an aspiring Machine Learning Engineer.
 
-Here are some ideas to get you started:
+About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Mantisshrimp
+- 🌱 I’m currently learning: NLP, Transformers. 
+- 👯 I’m looking to collaborate on: Kaggle competitions
+- 🤔 I’m looking for help with: Reinforcement Learning.
+- 💬 Ask me about: ML, DL, Computer Vision, NLP, DevOps, Cloud. Happy to help anytime.
+- 📫 How to reach me: PM me on [LinkedIn](https://www.linkedin.com/in/aditya-oke-99b74717a/). Or raise a GitHub Issue in [this](https://github.com/oke-aditya/oke-aditya) repo. I would he happy to contact.
+- 😄 Pronouns: OK. People love to call me OK.
+- ⚡ Fun fact: I am active almost 24x7. Reach me anytime.
+
