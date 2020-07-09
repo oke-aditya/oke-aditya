@@ -5,7 +5,7 @@
 
 About Me:
 
-- 🔭 I’m currently working on: Mantisshrimp
+- 🔭 I’m currently working on: [Mantisshrimp](https://github.com/lgvaz/mantisshrimp)
 - 🌱 I’m currently learning: NLP, Transformers. 
 - 👯 I’m looking to collaborate on: Kaggle competitions
 - 🤔 I’m looking for help with: Reinforcement Learning.
