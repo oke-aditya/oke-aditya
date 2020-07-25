@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=oke-aditya)](https://github.com/anuraghazra/github-readme-stats)
+
 - Hello, I am Aditya Oke.
 - I am an aspiring Machine Learning Engineer.
 
