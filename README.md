@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=oke-aditya)](https://github.com/anuraghazra/github-readme-stats)
-
 - Hello, I am Aditya Oke.
 - I am an aspiring Machine Learning Engineer.
 
@@ -16,3 +14,4 @@ About Me:
 - 😄 Pronouns: OK. People love to call me OK.
 - ⚡ Fun fact: I am active almost 24x7. Reach me anytime.
 
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=oke-aditya)](https://github.com/anuraghazra/github-readme-stats)
