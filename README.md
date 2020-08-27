@@ -20,7 +20,7 @@ About Me:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=oke-aditya&show_icons=true"
         alt="oke-aditya" />
 </p>
-
+<br>
 <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
         alt="aws" width="40" height="40" />
