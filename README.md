@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=oke-aditya&color=green)
+
 - Hello, I am Aditya Oke.
 - I am an aspiring Machine Learning Engineer.
 
