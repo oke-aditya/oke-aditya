@@ -7,7 +7,7 @@
 
 About Me:
 
-- 🔭 I’m currently working on: [CNN Trainer](https://github.com/oke-aditya/pytorch_cnn_trainer) [IceVision](https://github.com/airctic/icevision)
+- 🔭 I’m currently working on: [CNN Trainer](https://github.com/oke-aditya/pytorch_cnn_trainer) and [IceVision](https://github.com/airctic/icevision)
 - 🌱 I’m currently learning: NLP, Transformers.
 - 👯 I’m looking to collaborate on: PyTorch Projects.
 - 🤔 I’m looking for help with: Reinforcement Learning.
