@@ -7,8 +7,8 @@
 
 About Me:
 
-- 🔭 I’m currently working on: [CNN Trainer](https://github.com/oke-aditya/pytorch_cnn_trainer) and [IceVision](https://github.com/airctic/icevision)
-- 🌱 I’m currently learning: NLP, Transformers.
+- 🔭 I’m currently working on: Open Source Repositories.
+- 🌱 I’m currently learning: NLP, Transformers, ReactJS, Node.JS.
 - 👯 I’m looking to collaborate on: PyTorch Projects.
 - 🤔 I’m looking for help with: Reinforcement Learning.
 - 💬 Ask me about: ML, DL, Computer Vision, NLP, DevOps, Cloud. Happy to help anytime.
@@ -16,10 +16,9 @@ About Me:
 - 😄 Pronouns: OK. People love to call me OK.
 - ⚡ Fun fact: I am active almost 24x7. Reach me anytime.
 
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=oke-aditya&show_icons=true"
-        alt="oke-aditya" />
-</p>
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=oke-aditya&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oke-aditya&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -33,6 +32,11 @@ About Me:
         width="40" height="40" />
     <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker"
         width="40" height="40" />
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+     <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
@@ -47,6 +51,9 @@ About Me:
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40"
         height="40" />
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
         height="40" />
