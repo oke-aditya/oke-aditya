@@ -13,8 +13,8 @@ About Me:
 - 😄 Pronouns: OK. People love to call me OK.
 - ⚡ Fun fact: I am active almost 24x7. Reach me anytime.
 
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=oke-aditya&show_icons=true&count_private=true&layout=compact&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oke-aditya&hide=Jupyter%20Notebook&layout=compact&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=oke-aditya&show_icons=true&count_private=true&layout=compact&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oke-aditya&hide=Jupyter%20Notebook&layout=compact&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <p align="left">
