@@ -2,16 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=oke-aditya&color=green)
 
-About Me:
-
-- 🔭 I’m currently working on: Open Source Repositories.
-- 🌱 I’m currently learning: NLP, Transformers, ReactJS, Node.JS.
-- 👯 I’m looking to collaborate on: PyTorch Projects.
-- 🤔 I’m looking for help with: Reinforcement Learning.
-- 💬 Ask me about: ML, DL, Computer Vision, NLP, DevOps, Cloud. Happy to help anytime.
-- 📫 How to reach me: PM me on [LinkedIn](https://www.linkedin.com/in/aditya-oke-99b74717a/). Or raise a GitHub Issue in [this](https://github.com/oke-aditya/oke-aditya) repo. I would he happy to contact.
-- 😄 Pronouns: OK. People love to call me OK.
-- ⚡ Fun fact: I am active almost 24x7. Reach me anytime.
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=oke-aditya&show_icons=true&count_private=true&layout=compact&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oke-aditya&hide=Jupyter%20Notebook&layout=compact&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
